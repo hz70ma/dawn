@@ -116,24 +116,24 @@
             "second_image": false
           }
         },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
         "product_9RWW3z": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "rodeo-bull-shape-swimming-ring",
             "second_image": false
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "boys-favourite"
           }
         }
       },
       "block_order": [
         "product",
-        "collection-1",
-        "product_9RWW3z"
+        "product_9RWW3z",
+        "collection-1"
       ],
       "settings": {
         "heading": "<strong>Geek Chic Chuckles<\/strong>",
