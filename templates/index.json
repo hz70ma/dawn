@@ -202,10 +202,10 @@
     "collage_ebirxC": {
       "type": "collage",
       "blocks": {
-        "product_WVVW7N": {
+        "product_G3xXBM": {
           "type": "product",
           "settings": {
-            "product": "orient-jasmine-perfume-50ml",
+            "product": "jasmine-perfume",
             "second_image": false
           }
         },
@@ -224,7 +224,7 @@
         }
       },
       "block_order": [
-        "product_WVVW7N",
+        "product_G3xXBM",
         "product_wNQc3V",
         "collection_Py9mWk"
       ],
