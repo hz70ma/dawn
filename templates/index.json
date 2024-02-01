@@ -109,16 +109,10 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "novelty-middle-finger-full-head-latex-funny-mask",
             "second_image": false
           }
         },
@@ -127,12 +121,19 @@
           "settings": {
             "collection": ""
           }
+        },
+        "product_9RWW3z": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
         }
       },
       "block_order": [
-        "collection-0",
         "product",
-        "collection-1"
+        "collection-1",
+        "product_9RWW3z"
       ],
       "settings": {
         "heading": "Multimedia collage",
