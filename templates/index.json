@@ -146,76 +146,6 @@
         "padding_bottom": 36
       }
     },
-    "video": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multirow_4EFFHw": {
-      "type": "multirow",
-      "blocks": {
-        "row_XGRmPq": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "row_Lt6Wpi": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "row_y9KjHJ": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "row_XGRmPq",
-        "row_Lt6Wpi",
-        "row_y9KjHJ"
-      ],
-      "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -268,6 +198,46 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collage_ebirxC": {
+      "type": "collage",
+      "blocks": {
+        "product_WVVW7N": {
+          "type": "product",
+          "settings": {
+            "product": "orient-jasmine-perfume-50ml",
+            "second_image": false
+          }
+        },
+        "product_wNQc3V": {
+          "type": "product",
+          "settings": {
+            "product": "blooming-love-serum-perfume-sample-set",
+            "second_image": false
+          }
+        },
+        "collection_Py9mWk": {
+          "type": "collection",
+          "settings": {
+            "collection": "perfume"
+          }
+        }
+      },
+      "block_order": [
+        "product_WVVW7N",
+        "product_wNQc3V",
+        "collection_Py9mWk"
+      ],
+      "settings": {
+        "heading": "Blooming Love Perfume",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -275,8 +245,7 @@
     "rich_text",
     "featured_collection",
     "collage",
-    "video",
-    "multirow_4EFFHw",
-    "multicolumn"
+    "multicolumn",
+    "collage_ebirxC"
   ]
 }
