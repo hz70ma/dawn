@@ -54,14 +54,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Don't worry about tomorrow. Seize the day,",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<h3>Our mission is to liberate you from the worries of tomorrow.  <\/h3><p>Discover products that celebrate the beauty of living in the moment. Embrace joy, savor experiences, find happiness in everyday life. Our offerings empower you to make the most of each day and relish its richness.<\/p>"
           }
         }
       },
