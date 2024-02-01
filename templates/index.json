@@ -176,7 +176,7 @@
         "collection_Py9mWk"
       ],
       "settings": {
-        "heading": "Blooming Love Perfume",
+        "heading": "<strong>Blooming Love Perfume<\/strong>",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "column",
@@ -189,7 +189,7 @@
     "featured_collection_nPA4LY": {
       "type": "featured-collection",
       "settings": {
-        "title": "Cool Summer Time",
+        "title": "<strong>Cool Summer Time<\/strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
@@ -217,7 +217,7 @@
     "featured_collection_zFJaaP": {
       "type": "featured-collection",
       "settings": {
-        "title": "Life is a Journey",
+        "title": "<strong>Life is a Journey<\/strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
