@@ -109,17 +109,17 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "middle-finger-full-head-mask",
-            "second_image": false
-          }
-        },
         "product_9RWW3z": {
           "type": "product",
           "settings": {
             "product": "rodeo-bull-shape-swimming-ring",
+            "second_image": false
+          }
+        },
+        "product": {
+          "type": "product",
+          "settings": {
+            "product": "middle-finger-full-head-mask",
             "second_image": false
           }
         },
@@ -131,8 +131,8 @@
         }
       },
       "block_order": [
-        "product",
         "product_9RWW3z",
+        "product",
         "collection-1"
       ],
       "settings": {
