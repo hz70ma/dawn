@@ -85,7 +85,7 @@
         "heading_size": "h2",
         "description": "",
         "show_description": true,
-        "description_style": "subtitle",
+        "description_style": "body",
         "collection": "geek-product",
         "products_to_show": 8,
         "columns_desktop": 4,
