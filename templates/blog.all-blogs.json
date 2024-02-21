@@ -20,7 +20,7 @@
         "heading_size": "h2",
         "blog": "good-to-know",
         "post_limit": 4,
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "color_scheme": "",
         "show_image": true,
         "show_date": false,
