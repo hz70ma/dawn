@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -21,10 +30,10 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "GO FOR IT",
-            "button_link_1": "shopify:\/\/products\/april-fools-day-gift-pack",
+            "button_link_1": "shopify://products/april-fools-day-gift-pack",
             "button_style_secondary_1": true,
             "button_label_2": "ALL  PRODUCTS",
-            "button_link_2": "shopify:\/\/collections\/all",
+            "button_link_2": "shopify://collections/all",
             "button_style_secondary_2": true
           }
         }
@@ -35,7 +44,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/2023-2.jpg",
+        "image": "shopify://shop_images/2023-2.jpg",
         "image_overlay_opacity": 20,
         "image_height": "medium",
         "desktop_content_position": "bottom-center",
@@ -61,7 +70,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"\/pages\/you-cant-bring-it-with-you-2024\" title=\"&quot;You Can't Bring It With You&quot;! 2024\">Our mission<\/a> is to liberate you from the worries of tomorrow.  <\/p><p>Discover <a href=\"\/collections\/all\" title=\"All products\">products<\/a> that celebrate the beauty of living in the <a href=\"\/blogs\/good-to-know\" title=\"Good to know\">moment<\/a>. Embrace joy, savor experiences, find happiness in everyday life. Our offerings empower you to make the most of each day and relish its richness.<\/p>"
+            "text": "<p><a href=\"/pages/you-cant-bring-it-with-you-2024\" title=\"&quot;You Can't Bring It With You&quot;! 2024\">Our mission</a> is to liberate you from the worries of tomorrow.  </p><p>Discover <a href=\"/collections/all\" title=\"All products\">products</a> that celebrate the beauty of living in the <a href=\"/blogs/good-to-know\" title=\"Good to know\">moment</a>. Embrace joy, savor experiences, find happiness in everyday life. Our offerings empower you to make the most of each day and relish its richness.</p>"
           }
         }
       },
@@ -81,7 +90,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Stay Hungry Stay Foolish<\/strong>",
+        "title": "<strong>Stay Hungry Stay Foolish</strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
@@ -99,7 +108,7 @@
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 28,
@@ -113,7 +122,7 @@
           "type": "product",
           "settings": {
             "product": "rodeo-bull-shape-swimming-ring",
-            "second_image": true
+            "second_image": false
           }
         },
         "product": {
@@ -136,7 +145,7 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "<strong>Geek Chic Chuckles<\/strong>",
+        "heading": "<strong>Geek Chic Chuckles</strong>",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
@@ -176,7 +185,7 @@
         "collection_Py9mWk"
       ],
       "settings": {
-        "heading": "<strong>Blooming Love Perfume<\/strong>",
+        "heading": "<strong>Blooming Love Perfume</strong>",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "column",
@@ -189,7 +198,7 @@
     "featured_collection_nPA4LY": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Cool Summer Time<\/strong>",
+        "title": "<strong>Cool Summer Time</strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
@@ -207,7 +216,7 @@
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -217,7 +226,7 @@
     "featured_collection_zFJaaP": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Life is a Journey<\/strong>",
+        "title": "<strong>Life is a Journey</strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
@@ -235,7 +244,7 @@
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -248,12 +257,12 @@
         "slide_cr8P3E": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/46573ae68f0c680259611af11122c9d9.jpg",
-            "heading": "<a href=\"\/pages\/you-cant-bring-it-with-you-2024\" title=\"&quot;You Can't Bring It With You&quot;! 2024\">My story<\/a>",
+            "image": "shopify://shop_images/46573ae68f0c680259611af11122c9d9.jpg",
+            "heading": "<a href=\"/pages/you-cant-bring-it-with-you-2024\" title=\"&quot;You Can't Bring It With You&quot;! 2024\">My story</a>",
             "heading_size": "h1",
             "subheading": " I'm a British coder who, post-COVID-19 chaos, unexpectedly found himself soaking up the vibes in China. When the pandemic curtain started to fall, I made a gutsy move –",
             "button_label": "Read More",
-            "link": "shopify:\/\/pages\/you-cant-bring-it-with-you-2024",
+            "link": "shopify://pages/you-cant-bring-it-with-you-2024",
             "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,

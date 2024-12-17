@@ -1,8 +1,17 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/logo12_af1e4d14-0ccf-41f3-b421-30b3763a6a68.jpg",
+    "logo": "shopify://shop_images/logo12_af1e4d14-0ccf-41f3-b421-30b3763a6a68.jpg",
     "logo_width": 260,
-    "favicon": "shopify:\/\/shop_images\/376704897_1337279107223879_4940848348158424574_n.jpg",
+    "favicon": "shopify://shop_images/376704897_1337279107223879_4940848348158424574_n.jpg",
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
@@ -127,15 +136,12 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "7924418359578431505": {
-        "type": "shopify:\/\/apps\/seoant-ai-seo\/blocks\/seoant-core\/8e57283b-dcb0-4f7b-a947-fb5c57a0d59d",
+        "type": "shopify://apps/seoant-ai-seo/blocks/seoant-core/8e57283b-dcb0-4f7b-a947-fb5c57a0d59d",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     },
     "color_schemes": {
