@@ -9,6 +9,23 @@
  */
 {
   "sections": {
+    "featured_blog_zLzzVy": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Blog posts",
+        "heading_size": "h1",
+        "blog": "my-story",
+        "post_limit": 3,
+        "columns_desktop": 1,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-blog",
       "disabled": true,
@@ -73,19 +90,71 @@
         "padding_bottom": 36
       }
     },
-    "featured_blog_zLzzVy": {
-      "type": "featured-blog",
+    "featured_product_AnT6Jm": {
+      "type": "featured-product",
+      "blocks": {
+        "text_KPqrxX": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_beMV6U": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_ezAUpa": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_W8xjty": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_AjFPYX": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_YgNYzN": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_jzrMn3": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_KPqrxX",
+        "title_beMV6U",
+        "price_ezAUpa",
+        "variant_picker_W8xjty",
+        "quantity_selector_AjFPYX",
+        "buy_buttons_YgNYzN",
+        "share_jzrMn3"
+      ],
       "settings": {
-        "heading": "Blog posts",
-        "heading_size": "h1",
-        "blog": "my-story",
-        "post_limit": 3,
-        "columns_desktop": 1,
+        "product": "middle-finger-full-head-mask",
         "color_scheme": "",
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": true,
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -96,6 +165,7 @@
     "main",
     "featured_blog_bgRtRx",
     "featured_blog_fDEVip",
-    "featured_blog_9E7PkY"
+    "featured_blog_9E7PkY",
+    "featured_product_AnT6Jm"
   ]
 }
