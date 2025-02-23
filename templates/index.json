@@ -9,6 +9,34 @@
  */
 {
   "sections": {
+    "featured_collection_nPA4LY": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Cool Summer Time</strong>",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": true,
+        "description_style": "body",
+        "collection": "in-the-open-air",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -196,34 +224,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_nPA4LY": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "<strong>Cool Summer Time</strong>",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": true,
-        "description_style": "body",
-        "collection": "in-the-open-air",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_collection_zFJaaP": {
       "type": "featured-collection",
       "disabled": true,
@@ -309,11 +309,11 @@
   },
   "order": [
     "image_banner",
+    "featured_collection_nPA4LY",
     "rich_text",
     "featured_collection",
     "collage",
     "collage_ebirxC",
-    "featured_collection_nPA4LY",
     "featured_collection_zFJaaP",
     "slideshow_UVN7CL",
     "featured_blog_8t99Nr"
