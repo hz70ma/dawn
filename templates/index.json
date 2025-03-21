@@ -292,11 +292,11 @@
     "featured_blog_8t99Nr": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Blog posts",
+        "heading": "Good to know",
         "heading_size": "h1",
-        "blog": "my-story",
+        "blog": "good-to-know",
         "post_limit": 3,
-        "columns_desktop": 1,
+        "columns_desktop": 3,
         "color_scheme": "",
         "show_image": true,
         "show_date": true,
