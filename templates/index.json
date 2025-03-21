@@ -9,30 +9,42 @@
  */
 {
   "sections": {
-    "featured_collection_nPA4LY": {
-      "type": "featured-collection",
+    "collage": {
+      "type": "collage",
+      "blocks": {
+        "product_9RWW3z": {
+          "type": "product",
+          "settings": {
+            "product": "middle-finger-full-head-mask",
+            "second_image": true
+          }
+        },
+        "product": {
+          "type": "product",
+          "settings": {
+            "product": "brass-male-penis-pendant-keychain-pendant",
+            "second_image": true
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "geek-product"
+          }
+        }
+      },
+      "block_order": [
+        "product_9RWW3z",
+        "product",
+        "collection-1"
+      ],
       "settings": {
-        "title": "<strong>Cool Summer Time</strong>",
+        "heading": "<strong>Geek Chic Chuckles</strong>",
         "heading_size": "h2",
-        "description": "",
-        "show_description": true,
-        "description_style": "body",
-        "collection": "in-the-open-air",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "scheme-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -71,6 +83,7 @@
         "text",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/2023-2.jpg",
         "image_overlay_opacity": 0,
@@ -83,6 +96,34 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Stay Hungry Stay Foolish</strong>",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": true,
+        "description_style": "body",
+        "collection": "geek-product",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
       }
     },
     "rich_text": {
@@ -115,71 +156,30 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection": {
+    "featured_collection_nPA4LY": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
-        "title": "<strong>Stay Hungry Stay Foolish</strong>",
+        "title": "<strong>Cool Summer Time</strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": true,
         "description_style": "body",
-        "collection": "new-products",
+        "collection": "in-the-open-air",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
+        "color_scheme": "",
         "image_ratio": "adapt",
         "image_shape": "default",
-        "show_secondary_image": true,
+        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "product_9RWW3z": {
-          "type": "product",
-          "settings": {
-            "product": "middle-finger-full-head-mask",
-            "second_image": true
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "brass-male-penis-pendant-keychain-pendant",
-            "second_image": true
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "geek-product"
-          }
-        }
-      },
-      "block_order": [
-        "product_9RWW3z",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "<strong>Geek Chic Chuckles</strong>",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "scheme-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -305,17 +305,24 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "17425389984861b9df": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
-    "image_banner",
-    "featured_collection_nPA4LY",
-    "rich_text",
-    "featured_collection",
     "collage",
+    "image_banner",
+    "featured_collection",
+    "rich_text",
+    "featured_collection_nPA4LY",
     "collage_ebirxC",
     "featured_collection_zFJaaP",
     "slideshow_UVN7CL",
-    "featured_blog_8t99Nr"
+    "featured_blog_8t99Nr",
+    "17425389984861b9df"
   ]
 }
