@@ -9,73 +9,40 @@
  */
 {
   "sections": {
-    "featured_product_GMETJY": {
-      "type": "featured-product",
+    "slideshow_UVN7CL": {
+      "type": "slideshow",
       "blocks": {
-        "text_dd9Egn": {
-          "type": "text",
+        "slide_cr8P3E": {
+          "type": "slide",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_iEfdeJ": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_4699jV": {
-          "type": "price",
-          "settings": {}
-        },
-        "variant_picker_Y4w4Pa": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector_AHhgNi": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_biinj8": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "share_YpECbx": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
+            "image": "shopify://shop_images/46573ae68f0c680259611af11122c9d9.jpg",
+            "heading": "<a href=\"/pages/you-cant-bring-it-with-you-2024\" title=\"&quot;You Can't Bring It With You&quot;! 2024\">My story</a>",
+            "heading_size": "h1",
+            "subheading": " I'm a British coder who, post-COVID-19 chaos, unexpectedly found himself soaking up the vibes in China. When the pandemic curtain started to fall, I made a gutsy move –",
+            "button_label": "Read More",
+            "link": "shopify://pages/you-cant-bring-it-with-you-2024",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "text_dd9Egn",
-        "title_iEfdeJ",
-        "price_4699jV",
-        "variant_picker_Y4w4Pa",
-        "quantity_selector_AHhgNi",
-        "buy_buttons_biinj8",
-        "share_YpECbx"
+        "slide_cr8P3E"
       ],
       "settings": {
-        "product": "middle-finger-full-head-mask",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "collage": {
@@ -193,6 +160,75 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_GMETJY": {
+      "type": "featured-product",
+      "blocks": {
+        "text_dd9Egn": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_iEfdeJ": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_4699jV": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_Y4w4Pa": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_AHhgNi": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_biinj8": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_YpECbx": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_dd9Egn",
+        "title_iEfdeJ",
+        "price_4699jV",
+        "variant_picker_Y4w4Pa",
+        "quantity_selector_AHhgNi",
+        "buy_buttons_biinj8",
+        "share_YpECbx"
+      ],
+      "settings": {
+        "product": "middle-finger-full-head-mask",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -323,42 +359,6 @@
         "padding_bottom": 36
       }
     },
-    "slideshow_UVN7CL": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_cr8P3E": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/46573ae68f0c680259611af11122c9d9.jpg",
-            "heading": "<a href=\"/pages/you-cant-bring-it-with-you-2024\" title=\"&quot;You Can't Bring It With You&quot;! 2024\">My story</a>",
-            "heading_size": "h1",
-            "subheading": " I'm a British coder who, post-COVID-19 chaos, unexpectedly found himself soaking up the vibes in China. When the pandemic curtain started to fall, I made a gutsy move –",
-            "button_label": "Read More",
-            "link": "shopify://pages/you-cant-bring-it-with-you-2024",
-            "button_style_secondary": true,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_cr8P3E"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
     "featured_blog_8t99Nr": {
       "type": "featured-blog",
       "settings": {
@@ -384,16 +384,16 @@
     }
   },
   "order": [
+    "slideshow_UVN7CL",
     "collage",
     "image_banner",
     "featured_collection",
     "featured_product_GMETJY",
-    "rich_text",
     "featured_collection_nPA4LY",
     "collage_ebirxC",
     "featured_collection_zFJaaP",
-    "slideshow_UVN7CL",
     "featured_blog_8t99Nr",
+    "rich_text",
     "17425389984861b9df"
   ]
 }
