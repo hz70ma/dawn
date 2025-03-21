@@ -9,6 +9,91 @@
  */
 {
   "sections": {
+    "slideshow_UVN7CL": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_cr8P3E": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/46573ae68f0c680259611af11122c9d9.jpg",
+            "heading": "<a href=\"/pages/you-cant-bring-it-with-you-2024\" title=\"&quot;You Can't Bring It With You&quot;! 2024\">My story</a>",
+            "heading_size": "h1",
+            "subheading": " I'm a British coder who, post-COVID-19 chaos, unexpectedly found himself soaking up the vibes in China. When the pandemic curtain started to fall, I made a gutsy move –",
+            "button_label": "Read More",
+            "link": "shopify://pages/you-cant-bring-it-with-you-2024",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_cr8P3E"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "image_banner_AU6UMg": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_RhfnCp": {
+          "type": "heading",
+          "settings": {
+            "heading": "My story",
+            "heading_size": "h1"
+          }
+        },
+        "text_eVReYF": {
+          "type": "text",
+          "settings": {
+            "text": " I'm a British coder who, post-COVID-19 chaos, unexpectedly found himself soaking up the vibes in China. When the pandemic curtain started to fall, I made a gutsy move –",
+            "text_style": "body"
+          }
+        },
+        "buttons_dQinEq": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Read More",
+            "button_link_1": "shopify://pages/you-cant-bring-it-with-you-2024",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_RhfnCp",
+        "text_eVReYF",
+        "buttons_dQinEq"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/about_me.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -340,42 +425,6 @@
         "padding_bottom": 0
       }
     },
-    "slideshow_UVN7CL": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_cr8P3E": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/46573ae68f0c680259611af11122c9d9.jpg",
-            "heading": "<a href=\"/pages/you-cant-bring-it-with-you-2024\" title=\"&quot;You Can't Bring It With You&quot;! 2024\">My story</a>",
-            "heading_size": "h1",
-            "subheading": " I'm a British coder who, post-COVID-19 chaos, unexpectedly found himself soaking up the vibes in China. When the pandemic curtain started to fall, I made a gutsy move –",
-            "button_label": "Read More",
-            "link": "shopify://pages/you-cant-bring-it-with-you-2024",
-            "button_style_secondary": true,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_cr8P3E"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
     "17425389984861b9df": {
       "type": "apps",
       "settings": {
@@ -384,7 +433,8 @@
     }
   },
   "order": [
-    "rich_text",
+    "slideshow_UVN7CL",
+    "image_banner_AU6UMg",
     "collage",
     "image_banner",
     "featured_collection",
@@ -393,7 +443,7 @@
     "collage_ebirxC",
     "featured_collection_zFJaaP",
     "featured_blog_8t99Nr",
-    "slideshow_UVN7CL",
+    "rich_text",
     "17425389984861b9df"
   ]
 }
