@@ -9,6 +9,75 @@
  */
 {
   "sections": {
+    "featured_product_GMETJY": {
+      "type": "featured-product",
+      "blocks": {
+        "text_dd9Egn": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_iEfdeJ": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_4699jV": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_Y4w4Pa": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_AHhgNi": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_biinj8": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_YpECbx": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_dd9Egn",
+        "title_iEfdeJ",
+        "price_4699jV",
+        "variant_picker_Y4w4Pa",
+        "quantity_selector_AHhgNi",
+        "buy_buttons_biinj8",
+        "share_YpECbx"
+      ],
+      "settings": {
+        "product": "middle-finger-full-head-mask",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -38,6 +107,7 @@
         "product",
         "collection-1"
       ],
+      "disabled": true,
       "settings": {
         "heading": "<strong>Geek Chic Chuckles</strong>",
         "heading_size": "h2",
@@ -314,6 +384,7 @@
     }
   },
   "order": [
+    "featured_product_GMETJY",
     "collage",
     "image_banner",
     "featured_collection",
