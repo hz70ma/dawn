@@ -123,7 +123,6 @@
         "product",
         "collection-1"
       ],
-      "disabled": true,
       "settings": {
         "heading": "<strong>Geek Chic Chuckles</strong>",
         "heading_size": "h2",
@@ -266,6 +265,7 @@
         "buy_buttons_biinj8",
         "share_YpECbx"
       ],
+      "disabled": true,
       "settings": {
         "product": "middle-finger-full-head-mask",
         "color_scheme": "",
