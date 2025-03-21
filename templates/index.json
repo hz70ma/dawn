@@ -9,55 +9,6 @@
  */
 {
   "sections": {
-    "image_banner_M4DDT8": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_VbpfML": {
-          "type": "heading",
-          "settings": {
-            "heading": "Middle Finger Full Head Mask",
-            "heading_size": "h1"
-          }
-        },
-        "text_G4fycm": {
-          "type": "text",
-          "settings": {
-            "text": "Make a bold and humorous statement with our Middle Finger Full Head Mask! ",
-            "text_style": "body"
-          }
-        },
-        "buttons_LHtQn9": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Buy now",
-            "button_link_1": "shopify://products/middle-finger-full-head-mask",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_VbpfML",
-        "text_G4fycm",
-        "buttons_LHtQn9"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Middle-Finger-Full-Head-Mask-youcantbringitwithyou-1691571813281.jpg",
-        "image_2": "shopify://shop_images/Middle-Finger-Full-Head-Mask-youcantbringitwithyou-1691571816871.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -433,7 +384,7 @@
     }
   },
   "order": [
-    "image_banner_M4DDT8",
+    "rich_text",
     "collage",
     "image_banner",
     "featured_collection",
@@ -442,7 +393,6 @@
     "collage_ebirxC",
     "featured_collection_zFJaaP",
     "featured_blog_8t99Nr",
-    "rich_text",
     "slideshow_UVN7CL",
     "17425389984861b9df"
   ]
