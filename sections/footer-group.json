@@ -21,8 +21,16 @@
             "menu": "footer"
           }
         },
+        "link_list_WREYc3": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Collections",
+            "menu": "collections"
+          }
+        },
         "footer-2": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "heading": "<a href=\"/pages/you-cant-bring-it-with-you-2024\" title=\"&quot;You Can't Bring It With You&quot;! 2024\">You Can't Bring It With You</a>",
             "subtext": "<p>Don't worry about tomorrow, Seize the day.</p><p><a href=\"/pages/you-cant-bring-it-with-you-2024\" title=\"&quot;You Can't Bring It With You&quot;! 2024\">Our mission</a> is to liberate you from the worries of tomorrow.  </p>"
@@ -37,6 +45,7 @@
       },
       "block_order": [
         "footer-0",
+        "link_list_WREYc3",
         "footer-2",
         "brand_information_m6MEqL"
       ],
