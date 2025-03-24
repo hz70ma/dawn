@@ -204,7 +204,7 @@
       "scheme-f6307051-4196-4478-96f9-eece7eb1bd40": {
         "settings": {
           "background": "#02051b",
-          "background_gradient": "linear-gradient(178deg, rgba(247, 25, 190, 1) 6%, rgba(2, 5, 27, 1) 10%)",
+          "background_gradient": "linear-gradient(178deg, rgba(247, 25, 190, 1) 6%, rgba(2, 5, 27, 1) 13%)",
           "text": "#ffffff",
           "button": "#02051b",
           "button_label": "#02051b",
