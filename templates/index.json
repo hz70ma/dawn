@@ -114,7 +114,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "geek-product"
+            "collection": "all-product"
           }
         }
       },
@@ -191,7 +191,7 @@
         "description": "",
         "show_description": true,
         "description_style": "body",
-        "collection": "geek-product",
+        "collection": "all-product",
         "products_to_show": 12,
         "columns_desktop": 4,
         "full_width": false,
