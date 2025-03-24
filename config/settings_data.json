@@ -203,11 +203,11 @@
       },
       "scheme-f6307051-4196-4478-96f9-eece7eb1bd40": {
         "settings": {
-          "background": "#180e63",
+          "background": "#02051b",
           "background_gradient": "",
           "text": "#ffffff",
-          "button": "#121212",
-          "button_label": "#ffffff",
+          "button": "#02051b",
+          "button_label": "#02051b",
           "secondary_button_label": "#121212",
           "shadow": "#121212"
         }
