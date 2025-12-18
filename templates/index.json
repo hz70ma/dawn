@@ -339,6 +339,7 @@
         "product_wNQc3V",
         "collection_Py9mWk"
       ],
+      "disabled": true,
       "settings": {
         "heading": "<strong>Blooming Love Perfume</strong>",
         "heading_size": "h2",
@@ -352,6 +353,7 @@
     },
     "featured_collection_nPA4LY": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "in-the-open-air",
         "products_to_show": 8,
@@ -380,7 +382,6 @@
     },
     "featured_collection_zFJaaP": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "collection": "in-the-living-room",
         "products_to_show": 8,
