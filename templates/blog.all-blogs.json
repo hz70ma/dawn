@@ -59,7 +59,7 @@
     "featured_blog_fDEVip": {
       "type": "featured-blog",
       "settings": {
-        "blog": "movie-channel",
+        "blog": "china-rewind",
         "post_limit": 4,
         "heading": "Movie Channel",
         "heading_size": "h2",
