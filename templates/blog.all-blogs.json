@@ -12,7 +12,7 @@
     "featured_blog_zLzzVy": {
       "type": "featured-blog",
       "settings": {
-        "blog": "our-story",
+        "blog": "behind-farfound",
         "post_limit": 3,
         "heading": "Blog posts",
         "heading_size": "h1",
