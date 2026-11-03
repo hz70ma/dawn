@@ -42,7 +42,7 @@
     "featured_blog_bgRtRx": {
       "type": "featured-blog",
       "settings": {
-        "blog": "china-brands",
+        "blog": "journal",
         "post_limit": 4,
         "heading": "Good to know",
         "heading_size": "h2",

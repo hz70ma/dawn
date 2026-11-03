@@ -75,7 +75,7 @@
     "featured_blog_m8wNCp": {
       "type": "featured-blog",
       "settings": {
-        "blog": "china-brands",
+        "blog": "journal",
         "post_limit": 3,
         "heading": "Good to Know",
         "heading_size": "h1",
